@@ -1,1 +1,1 @@
-This repository brings an easy configuration for kitty terminal and zsh shell
+This repository brings an easy configuration for kitty terminal
